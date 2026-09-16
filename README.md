@@ -57,7 +57,7 @@ While end-to-end commercial PR suites dominate due to proprietary journalist dat
 
 Below is a curated list of open-source projects suitable for media contact management, press releases, and media workflows, sorted by GitHub Star Count (descending):
 
-| Repository | Description | Star Count | Stars Link |
+| Repository | Description | Star_Count | Stars Link |
 | :--- | :--- | :--- | :--- |
 | ⭐ **[monicahq/monica](https://github.com/monicahq/monica)** | Personal Relationship Management (PRM) / contact CRM system. Excellent for maintaining high-touch individual journalist notes, pitch histories, and interaction logs. | [![Stars](https://img.shields.io/github/stars/monicahq/monica?style=social&color=white)](https://github.com/monicahq/monica/stargazers) | [View Stargazers](https://github.com/monicahq/monica/stargazers) |
 | ⭐ **[salesagility/SuiteCRM](https://github.com/salesagility/SuiteCRM)** | Enterprise-grade, modular open-source CRM platform. Highly customizable to construct full-featured media databases, journalist lists, and PR outreach workflows. | [![Stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers) | [View Stargazers](https://github.com/salesagility/SuiteCRM/stargazers) |
