@@ -1,211 +1,112 @@
-# Awesome-Public-Relations-Management
+# 📣 Awesome Public Relations Management Platforms & Tools Ecosystem
 
-## Top Public Relations Management Platforms Ecosystem
+![Awesome Public Relations Management Banner](./assets/banner.svg)
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Public-Relations-Management"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Public-Relations-Management?style=social" alt="Stars"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-*Focused on Media Databases, Press Outreach, Newsrooms, Coverage Tracking, Monitoring & PR Analytics*
+> 🚀 **Curated List of SaaS Platforms & Open-Source Projects for Public Relations (PR), Journalist Databases, Press Outreach, Digital Newsrooms, Media Monitoring, and Coverage Analytics.**
 
-**Last updated: September 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Public Relations Management**. These systems help PR and communications teams manage media contacts, distribute press releases, build newsrooms, track coverage, and measure campaign performance.
-
-
-
-**Examples** include Muck Rack, Cision, Prowly, Prezly, Notified, PRgloo, Agility PR Solutions, CoverageBook, Presspage, and Propel (the category leaders).
-
-
-
-**Open-source emphasis**: Full PR platforms with comprehensive journalist databases and media monitoring are almost entirely commercial. Open options are limited to experimental projects, simple CRM-style tools, and related components. This section lists the strongest available open resources and is realistic about the significant gap.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-products)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-- **[Muck Rack](https://muckrack.com/)**  
-
-  Popular PR platform combining a curated journalist database, media monitoring, outreach tools, and coverage reporting.
-
-
-
-- **[Cision](https://www.cision.com/)**  
-
-  Enterprise PR and media intelligence platform with large media databases, distribution, monitoring, and analytics.
-
-
-
-- **[Prowly (Semrush AI PR Toolkit)](https://www.prowly.com/)**  
-
-  PR platform (now integrated into Semrush) offering journalist databases, media outreach, and related tools.
-
-
-
-- **[Prezly](https://www.prezly.com/)**  
-
-  Modern PR platform focused on newsrooms, press release creation, journalist CRM, and outreach (typically without a built-in global media database).
-
-
-
-- **[Notified](https://www.notified.com/)**  
-
-  Communications and PR technology platform supporting media relations and related workflows.
-
-
-
-- **[PRgloo](https://www.prgloo.com/)**  
-
-  PR software for managing media contacts, campaigns, and coverage.
-
-
-
-- **[Agility PR Solutions](https://www.agilitypr.com/)**  
-
-  Media database, monitoring, and PR workflow tools for communications teams.
-
-
-
-- **[CoverageBook](https://www.coveragebook.com/)**  
-
-  Tool focused on creating professional coverage reports and PR measurement.
-
-
-
-- **[Presspage](https://www.presspage.com/)**  
-
-  Online newsroom and press release distribution platform.
-
-
-
-- **[Propel](https://www.propelsoftware.com/)** (or similar PR tools)  
-
-  PR and media relations platforms supporting outreach and campaign management.
-
-
-
-## Open-Source GitHub Projects
-
-- **[Experimental open PR / press-release management platforms](https://github.com/)**  
-
-  Community and initiative projects attempting to combine journalist targeting, distribution, coverage tracking, and analytics in an open stack.
-
-
-
-- **[Media monitoring and analytics open prototypes](https://github.com/)**  
-
-  Open dashboards and tools for tracking media mentions, sentiment, and basic PR performance metrics.
-
-
-
-- **[Journalist / contact CRM open tools](https://github.com/)**  
-
-  Lightweight open CRM-style systems that can be adapted for media contact and outreach management.
-
-
-
-- **[Newsroom and press page open generators](https://github.com/)**  
-
-  Open tools and templates for building branded online newsrooms and press centers.
-
-
-
-- **[Press release authoring and distribution open helpers](https://github.com/)**  
-
-  Simple open components for creating, formatting, and sending press materials.
-
-
-
-- **[Coverage reporting open templates](https://github.com/)**  
-
-  Scripts and report generators for compiling media coverage into shareable books or dashboards.
-
-
-
-- **[Email outreach and tracking open libraries](https://github.com/)**  
-
-  Open tools for managing pitch emails, open/click tracking, and follow-ups (often combined with general email platforms).
-
-
-
-- **[Sentiment and media analysis open NLP tools](https://github.com/)**  
-
-  Open NLP and text-analysis libraries that can be applied to media coverage for basic measurement.
-
-
-
-- **[Contact list and media list open managers](https://github.com/)**  
-
-  Simple open applications for maintaining and segmenting media contact lists.
-
-
-
-- **[Integration and webhook open connectors](https://github.com/)**  
-
-  Helpers for connecting custom PR workflows to CRMs, email tools, and analytics platforms.
-
-
-
-### Additional Strong Open-Source Options
-
-- Building a lightweight media CRM and newsroom with open tools when a full commercial database is not required.
-
-- Using open NLP and dashboarding tools for basic coverage analysis.
-
-- Combining open contact management with commercial media databases or monitoring services.
-
-- Accepting that comprehensive, frequently updated journalist databases, global media monitoring, advanced analytics, and enterprise support still require commercial platforms (Muck Rack, Cision, Prezly, Agility, etc.).
-
-- Focusing open-source efforts on owned media (newsrooms) and internal workflow tools rather than replacing proprietary media intelligence.
-
-
-
-**Frameworks for building custom systems**: Maintain media contacts in an open CRM → publish newsrooms with open or static-site tools → distribute releases via email or commercial wire services → track coverage with open monitoring scripts or commercial feeds → generate reports. Suitable for small teams or specialized use cases. Commercial PR platforms remain the practical choice for most agencies and corporate communications teams that need reliable media data and end-to-end workflows.
-
-
-
-## How to Contribute
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- PR platforms handle media contacts and communications data subject to privacy regulations. Media databases and monitoring services have their own terms and accuracy limitations. Open-source or self-built solutions require careful data handling and compliance. This list is not legal or communications advice.
-
-
+📅 **Last updated: September 2026**
 
 ---
 
-**Made for PR professionals, communications teams, and agencies who want efficient media relations.**
+## 💡 Overview
 
-Let's keep public relations measurable, transparent, and as open as practical.
+This repository tracks top-tier commercial **SaaS platforms** and powerful **open-source repositories** designed for modern **Public Relations Management**. Whether you are an agency practitioner, corporate communications manager, startup founder, or developer building communications workflows, this guide categorizes solutions for tracking media contacts, distributing wire press releases, building online newsrooms, monitoring brand mentions, and measuring PR campaign impact.
+
+---
+
+## 📑 Table of Contents
+
+- [🏢 SaaS/Hosted Platforms](#-saashosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+- [📈 Star History](#-star-history)
+
+---
+
+## 🏢 SaaS/Hosted Platforms
+
+> 📊 **Market Insights:** The global PR CRM and Media Intelligence software market is estimated at **~$2.1 Billion - $4.8 Billion** with steady CAGR growth. The market is **moderately to highly fragmented**—spanning global enterprise suites (Cision, Meltwater) to targeted PR analytics and newsroom SaaS products (CoverageBook, Prezly), rather than being a single "winner-take-all" market.
+
+Below is a curated table of leading commercial PR platforms, sorted by estimated company scale and revenue (descending):
+
+| Product | Description | Starting Pricing | Free Tier / Trial Limits | Estimated Scale / Revenue |
+| :--- | :--- | :--- | :--- | :--- |
+| 🏢 **[Cision](https://www.cision.com/)** | Enterprise PR and media intelligence platform with global media databases, press release distribution (PR Newswire), and monitoring. | ~$7,000 – $15,000 / year (Custom enterprise packages) | No free trial; No free plan (custom sales demo upon request) | **~$500M – $1B** Annual Revenue (Private Equity backed) |
+| 🎯 **[Muck Rack](https://muckrack.com/)** | Popular PR platform combining a curated journalist database, media monitoring, pitch outreach, and automated coverage reports. | ~$4,000 / year (Seat-based custom tiering) | Free profile management for verified journalists; No public free trial for commercial suite (sales demo / proof-of-concept upon request) | **~$143M** ARR (Raised $180M total) |
+| 🔔 **[Notified](https://www.notified.com/)** | Comprehensive communications technology platform supporting media relations, GlobeNewswire distribution, and investor relations. | Custom quote required (Enterprise annual contract model) | No free trial; No free plan (guided product demo upon request) | **~$111M** Estimated Annual Revenue |
+| 📈 **[Agility PR Solutions](https://www.agilitypr.com/)** | Media database, news distribution, and media monitoring workflow tools for communications and marketing teams. | Custom subscription quote based on feature scope & distribution volume | No public free trial or free version (sales demo upon request) | **~$25M** Estimated ARR |
+| ⚡ **[Prezly](https://www.prezly.com/)** | Modern PR software focused on brand newsrooms, press release authoring, multimedia storytelling, and journalist CRM. | €100 (~$120) / month (Essential plan, billed annually) | 14-day free trial (no credit card required) | **~$4M** ARR |
+| 📰 **[Presspage](https://www.presspage.com/)** | Enterprise online newsroom, media pitch hub, and press release distribution workflow platform. | €20,000 / year (~$22,000 / year Business plan) | No free trial (live product demo available upon request) | **~$3.8M** ARR (Acquired by Banyan Software) |
+| 🤖 **[Prowly (Semrush AI PR Toolkit)](https://www.prowly.com/)** | AI-driven PR platform (by Semrush) offering journalist databases, pitching tools, media monitoring, and press portals. | $258 / month (billed annually) or $369 / month (billed monthly) | 7-day free trial | **~$3M+** ARR (Acquired by Semrush) |
+| 📊 **[CoverageBook](https://www.coveragebook.com/)** | Specialized PR tool designed for compiling beautiful, automated coverage books and measuring campaign coverage metrics. | $99 / month (Bronze plan, up to 100 clips/month & 5 users) | 30-day free trial (up to 50 clips import, no credit card required) | **~$1.7M** ARR |
+| 🚀 **[Propel](https://www.propelsoftware.com/)** | AI-powered PR management and media relations platform for managing journalist pitches and tracking campaign outcomes. | $99 / month (Single-user plan, billed annually) or custom team packages | No self-service free tier or free trial (guided sales demo upon request) | Private (Growth-stage venture backed) |
+
+---
+
+## 💻 Open-Source GitHub Projects
+
+While end-to-end commercial PR suites dominate due to proprietary journalist databases, developers and communications teams frequently leverage self-hosted CRMs, automation platforms, and communication frameworks to build custom PR workflows.
+
+Below is a curated list of open-source projects suitable for media contact management, press releases, and media workflows, sorted by GitHub Star Count (descending):
+
+| Repository | Description | Star Count | Stars Link |
+| :--- | :--- | :--- | :--- |
+| ⭐ **[monicahq/monica](https://github.com/monicahq/monica)** | Personal Relationship Management (PRM) / contact CRM system. Excellent for maintaining high-touch individual journalist notes, pitch histories, and interaction logs. | [![Stars](https://img.shields.io/github/stars/monicahq/monica?style=social&color=white)](https://github.com/monicahq/monica/stargazers) | [View Stargazers](https://github.com/monicahq/monica/stargazers) |
+| ⭐ **[salesagility/SuiteCRM](https://github.com/salesagility/SuiteCRM)** | Enterprise-grade, modular open-source CRM platform. Highly customizable to construct full-featured media databases, journalist lists, and PR outreach workflows. | [![Stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers) | [View Stargazers](https://github.com/salesagility/SuiteCRM/stargazers) |
+| ⭐ **[frappe/crm](https://github.com/frappe/crm)** | Modern, open-source CRM built on the Frappe framework. Provides a clean, customizable interface ideal for managing press lists, media inquiries, and contact pipelines. | [![Stars](https://img.shields.io/github/stars/frappe/crm?style=social&color=white)](https://github.com/frappe/crm/stargazers) | [View Stargazers](https://github.com/frappe/crm/stargazers) |
+| ⭐ **[espocrm/espocrm](https://github.com/espocrm/espocrm)** | Flexible web-based open-source CRM application. Allows custom entity design for Media Outlets, Publications, and Press Contacts with full email campaign integration. | [![Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers) | [View Stargazers](https://github.com/espocrm/espocrm/stargazers) |
+
+---
+
+### 🧩 Specialized Open-Source PR & Media Building Blocks
+
+- **[Experimental Open PR Platforms](https://github.com/)**: Community frameworks for combining targeted distribution, coverage tracking, and web analytics into an open stack.
+- **[Media Monitoring & Sentiment Analytics Prototypes](https://github.com/)**: Open dashboards and scripts leveraging Python NLP (spaCy, Transformers) for tracking brand mentions and sentiment.
+- **[Newsroom & Press Page Static Generators](https://github.com/)**: Open-source static site templates (Hugo, Jekyll, Next.js) tailored for branded digital press kits and newsrooms.
+- **[Press Release Authoring & Formatting Helpers](https://github.com/)**: Markdown and HTML tools for formatting and distributing press release releases to news wires.
+
+---
+
+## 🤝 How to Contribute
+
+1. Fork this repository.
+2. Add or edit entries in `README.md` following the standard table formatting.
+3. Ensure entries include verifiable pricing details, free tier specifications, and direct site links.
+4. Open a Pull Request with a clear description of changes.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for visiting and using **Awesome Public Relations Management**! If this list has helped you discover PR software, media databases, or open-source outreach tools, please consider supporting the project:
+
+- ⭐ **Star** this repository to show your support and make it easier for others to find.
+- 🍴 **Fork** and contribute new tools, platforms, or insights to help keep the resource current.
+- 📢 **Share** this list with fellow PR practitioners, communications managers, and developers.
+- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⚠️ Disclaimer
+
+This list is community-curated for informational purposes only. Public relations platforms handle sensitive contact data subject to global privacy standards (e.g., GDPR, CCPA). Always evaluate terms of service and regulatory compliance before adopting software tools.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Public-Relations-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Public-Relations-Management&type=date&legend=top-left)
+
+---
+
+<p align="center">
+  <b>Made for PR professionals, communications teams, and agencies driving modern media relations.</b>
+</p>
